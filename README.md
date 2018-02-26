@@ -1,6 +1,7 @@
 # Mini_Ex3
 ![alt tekst](https://github.com/MathiasTvilling/Mini_Ex3/blob/master/Sk%C3%A6rmbillede%202018-02-23%20kl.%2012.10.46.png)
 https://rawgit.com/MathiasTvilling/Mini_Ex3/master/Min_Ex3_ZondaThrobber/empty-example/index.html
+
 For this weeks mini_ex, I have designed a throbber inspired by my favorite car, the Pagani Zonda. The car is "driving" around the world in my design, both spinning in opposite directions in order to create the illusion of more speed. My vision for the throbber was for it to be used on a motoring website, and i chose a cartoonish design. Something new I have implemented for this week was a window wide canvas, with was nice to work with. I also used Push() and Pop() to limit the rotation. The biggest challenge for me this week was to make it look as though the car is "driving" around the earth, in the sense that the wheels should always point towards the middle. I made this happen by playing around with the Y and X values of the car, making them both negative.
 
 For the time related syntax I have used frameRate. The thing that creates the speed in my program, however, is the opposite direction the car and earth respectively spins. This makes it seem as though the whole thing is moving faster than it actually is.
